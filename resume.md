@@ -226,8 +226,8 @@ Founder, Dayton .NET Developers Group: <http://www.daytondevgroup.net>.
 
 # AWARDS:
 
-Microsoft Most Valuable Professional for Visual C\# since 2005. One of
-fewer than 300 C\# professionals in the world recognized for their
+Microsoft Most Valuable Professional for Visual C\#, then Application Lifecycle Management since 2005. One of
+fewer than 300 Microsoft ALM professionals in the world recognized for their
 contributions to the .NET development community.
 
 Voted “C\# MVP of 2011” by fellow C\# MVPs for leadership of CodeMash
