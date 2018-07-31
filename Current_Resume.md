@@ -4,7 +4,7 @@
 # SUMMARY
 
 Well-organized, motivated engineer passionate about continual
-improvement for skills, processes, and teams. Recognized influencer in
+improvement for skills, processes, and teams. Internationally recognized influencer in
 test automation communities. Exceptional writing and speaking skills.
 
 # TECHNOLOGY SKILLS:
@@ -29,6 +29,10 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
 
 -   Provides guidance and implementation assistance on all aspects of
     software quality
+    
+-   Creates and provides training and coaching to move non-coding testers into software automation
+
+-   Specializes in moving testers from stove-piped, centralized work into embedded members of delivery teams
 
 ## December 2014 - Present: Guidepost Systems
 
@@ -42,6 +46,8 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
 
 -   Provides assessments detailing actionable items for organizational
     transformations
+    
+-   Recognized influencer and mentor in Leadership development, particularly for IT teams
 
 ## March 2014 - December 2014: Falafel Software
 
