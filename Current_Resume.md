@@ -1,4 +1,6 @@
-  James (Jim) Holmes   (937)416-8903   Jim@GuidepostSystems.com
+  James (Jim) Holmes   
+  (937)416-8903   
+  Jim@GuidepostSystems.com
   -------------------- --------------- --------------------------
 
 # SUMMARY
@@ -232,7 +234,7 @@ Founder, Dayton .NET Developers Group: <http://www.daytondevgroup.net>.
 
 # AWARDS:
 
-Microsoft Most Valuable Professional for Visual C\#, then Application Lifecycle Management since 2005. One of
+Microsoft Most Valuable Professional for Visual C\# (awarded first in 2005), then Application Lifecycle Management. One of
 fewer than 300 Microsoft ALM professionals in the world recognized for their
 contributions to the .NET development community.
 
