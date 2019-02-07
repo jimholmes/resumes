@@ -1,7 +1,17 @@
+---
+header-includes:
+  - \hypersetup{colorlinks=true,
+            linkcolor=blue,
+            allbordercolors={0 0 0},
+            pdfborderstyle={/S/U/W 1}}
+---
+
+
   James (Jim) Holmes   
   (937)416-8903   
   Jim@GuidepostSystems.com
-  -------------------- --------------- --------------------------
+
+  ----------------------------------- --------------------------
 
 # SUMMARY
 
@@ -19,7 +29,7 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
 
 # PROFESSIONAL EXPERIENCE:
 
-## March 2015 - Present: Pillar Technology 
+## Pillar Technology: March 2015 - Present
 
 **Executive Consultant**
 
@@ -36,7 +46,7 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
 
 -   Specializes in moving testers from stove-piped, centralized work into embedded members of delivery teams
 
-## December 2014 - Present: Guidepost Systems
+## Guidepost Systems: December 2014 - Present
 
 **Owner, Principle Consultant**
 
@@ -51,7 +61,7 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
     
 -   Recognized influencer and mentor in Leadership development, particularly for IT teams
 
-## March 2014 - December 2014: Falafel Software
+## Falafel Software: March 2014 - December 2014
 
 **VP, ALM and Testing**
 
@@ -67,7 +77,7 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
 
 -   Assisted product vendor partners with pre- and post-sales support.
 
-## July 2012 - March 2014: Telerik
+## Telerik: July 2011 - March 2014
 
 **Evangelist, Director of Engineering, Evangelist: Test Studio**
 
@@ -99,7 +109,7 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
     different organizations through multi-day onsite
     coaching engagements.
 
-## April 2005 - January 2014: CodeMash Conference
+## CodeMash Conference: April 2005 - January 2014
 
 **President, Board of Directors**
 
@@ -114,7 +124,7 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
 -   Directly responsible for sponsorship revenue through 2013. Achieved
     \$150K in sales for 2013 event.
 
-## Nov 2008 - July 2011: Telligent Systems
+## Telligent Systems: Nov 2008 - July 2011
 
 **Director of Quality, previously Project Manager**
 
@@ -140,7 +150,7 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
 -   Doubled developer velocity, in part, by implementing a pull-based
     single-task workflow.
 
-## April 2007 - Nov 2008: Quick Solutions, Inc. (QSI) 
+## Quick Solutions, Inc. (QSI): April 2007 - Nov 2008
 
 **Studio Lead, Information Worker Studio; Project Engineer**
 
@@ -163,7 +173,7 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
     delivering cutting-edge training materials to Microsoft’s Developer
     Platform Evangelism division.
 
-## July 2006 - April 2007: NuSoft Solutions
+## NuSoft Solutions: July 2006 - April 2007
 
 **Principal Consultant**
 
@@ -173,7 +183,7 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
 -   Assisted with design and implementation of several proof of concept
     workflows on the Microsoft Office SharePoint Server platform.
 
-## August 2003 - March 2005: Northrop Grumman Space Technology, Kettering, Ohio
+## Northrop Grumman Space Technology, Kettering, Ohio: August 2003 - March 2005
 
 **Systems/Software Engineer**
 
@@ -181,7 +191,7 @@ Lead Engineer for Air Force Common Viewer (AFCV) program. Assisted with
 contract proposals and project schedules. Created solutions for a wide
 range of customers such as Ogden Air Logistics Center.
 
-## June 1998 - July 2003: Veridian Systems (now General Dynamics - Advanced Information Systems), Arlington, Virginia
+## Veridian Systems (now General Dynamics - Advanced Information Systems), Arlington, Virginia: June 1998 - July 2003
 
 **System Engineer/Customer Relations Manager**
 
@@ -195,7 +205,7 @@ Mapping Agency products. Lead for Veridian’s effort in the E-3’s
 Integrated Technical Display System. Managed networks at Veridian’s
 Virginia work centers.
 
-## January 1997 - July 1998: Ingram Micro, Munich, Germany
+## Ingram Micro, Munich, Germany: January 1997 - July 1998
 
 **Network Manager**
 
@@ -203,7 +213,7 @@ Led three-person team supporting network operations in three countries.
 Planned, tested and migrated work center network from Token Ring to
 Ethernet during a weekend relocation of the entire work center.
 
-## 1995 - 1996 Stream International, Munich, Germany
+## Stream International, Munich, Germany:  1995 - 1996
 
 **Telephone Hotline Technician**
 
@@ -211,7 +221,7 @@ Handled new user support for major international online service.
 Resolved problems with modem and computer configuration. Created online
 help files detailing workflows for techs.
 
-## 1982 - 1993: United States Air Force, various locations
+## United States Air Force, various locations: 1982 - 1993
 
 **Instructor Airborne Radar Technician**
 
@@ -219,29 +229,25 @@ Operated and repaired radar systems during flight on E-3 aircraft.
 Instructed a wide range of students. Also managed and supported numerous
 small computer systems.
 
-# EDUCATION: 
+# EDUCATION
 
 Woodland High School, Woodland, CA (National Honor Society)
 
-
 BS in Computer Information Systems, Chapman University, Orange, CA. (Cum Laude)
 
-# COMMUNITY INVOLVEMENT:
+# COMMUNITY INVOLVEMENT
 
 Past President/Founder, CodeMash Conference: <http://www.CodeMash.org>.
 
 Founder, Dayton .NET Developers Group: <http://www.daytondevgroup.net>.
 
-# AWARDS:
+# AWARDS
 
-Microsoft Most Valuable Professional for Visual C\# (awarded first in 2005), then Application Lifecycle Management. One of
-fewer than 300 Microsoft ALM professionals in the world recognized for their
-contributions to the .NET development community.
+Microsoft Most Valuable Professional for Visual C# (awarded first in 2005), then Application Lifecycle Management. One of fewer than 300 Microsoft ALM professionals in the world recognized for their contributions to the .NET development community.
 
-Voted “C\# MVP of 2011” by fellow C\# MVPs for leadership of CodeMash
-Conference.
+Voted “C# MVP of 2011” by fellow C# MVPs for leadership of CodeMash Conference.
 
-# SPEAKING (Selected Listing):
+# SPEAKING (Selected Listing)
 
 **Leadership 101 Workshop**
 Numerous times 2015, 2016, 2018
@@ -263,10 +269,19 @@ Awareness***: A-10 World Wide Conference, Las Vegas, 2004
 Various slide decks from presentations hosted online at my
 [SpeakerDeck.com account](https://speakerdeck.com/jimholmes)
 
-[Video of “It’s Not About You”](http://vimeo.com/68908830%23) KalamazooX
-2013 Conference talk
+["More Better Quality Coverage"](https://www.youtube.com/watch?v=dk-gLlpYb3o) Breakout session at DevReach 2018
 
-# PUBLICATIONS (Selected listing):
+[“It’s Not About You”](http://vimeo.com/68908830%23) KalamazooX 2013 Conference talk
+
+["Why?"](https://www.youtube.com/watch?v=uFjdSqDPLSQ) Keynote at ISTA Conference 2016
+
+["You Got This!"](https://www.youtube.com/watch?v=5NMfLNtk65s)  Keynote at DevSpace Technical Conference 2018. **Note:** This is an intense talk and openly speaks to mental health and extraordinarily traumatic events.
+
+# COURSES
+
+[Coding for Non-Coders](https://www.ministryoftesting.com/dojo/series/coding-for-non-coders-jim-holmes) 6.5 hour course targeting non-coding testers, program managers, and other software delivery team members.
+
+# PUBLICATIONS (Selected listing)
 
 Blogger at <http://frazzleddad.com>
 
@@ -276,12 +291,12 @@ Blogger at <http://frazzleddad.com>
 Exhaustive discussion of open source tools for Windows developers
 covering the entire development lifecycle.
 
-Extensive number of articles, whitepapers, and content for numerous
-publications and sites including
+Extensive number of articles, white papers, and content for numerous publications and sites including
 
 -   [Tea Time With
     Testers](http://www.teatimewithtesters.com/#!magazines/galleryPage)
     (Oct ’13 – Feb ’14)
+-  [Gurock Quality Hub](https://blog.gurock.com/code-kata-testing/)
 
 Extensive number of product and educational videos at
 http://tv.telerik.com.
