@@ -249,8 +249,14 @@ Voted “C# MVP of 2011” by fellow C# MVPs for leadership of CodeMash Conferen
 
 # SPEAKING (Selected Listing)
 
+**Coding for Non-Coders**
+Top-rated all-day workshop at Romania Testing Conference 2019
+
+**Public Speaking Workshop**
+Romania Testing Conference 2019, THAT Conference 2019
+
 **Leadership 101 Workshop**
-Numerous times 2015, 2016, 2018
+Numerous times 2015, 2016, 2018, 2019
 
 ***Four Tips to Improve Your Web Automated Testing:*** Numerous times
 2011, 2012, 2013
