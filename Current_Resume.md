@@ -29,7 +29,7 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
 
 # PROFESSIONAL EXPERIENCE:
 
-## Pillar Technology: March 2015 - Present
+## Pillar Technology (Now part of Accenture): March 2015 - Present
 
 **Executive Consultant**
 
