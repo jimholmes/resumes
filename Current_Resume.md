@@ -38,6 +38,7 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
 
 -   Part of team responsible for transforming 100+ member delivery team
     from waterfall to agile
+-   Assisted Fortune 10 client in modernizing testing and quality practices through hands-on delivery and workshops
 
 -   Provides guidance and implementation assistance on all aspects of
     software quality
@@ -45,6 +46,8 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
 -   Creates and provides training and coaching to move non-coding testers into software automation
 
 -   Specializes in moving testers from stove-piped, centralized work into embedded members of delivery teams
+
+-   Lead consultant integrating contract and delivery risk analysis processes between Accenture and Pillar. Responsible for advising opportunity pursuit teams on over $30M of business proposals.
 
 ## Guidepost Systems: December 2014 - Present
 
