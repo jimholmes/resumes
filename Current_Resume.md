@@ -280,7 +280,7 @@ Various slide decks from presentations hosted online at my
 
 ["More Better Quality Coverage"](https://www.youtube.com/watch?v=dk-gLlpYb3o) Breakout session at DevReach 2018
 
-[“It’s Not About You”](http://vimeo.com/68908830%23) KalamazooX 2013 Conference talk
+[“It’s Not About You”](https://vimeo.com/68908830) KalamazooX 2013 Conference talk
 
 ["Why?"](https://www.youtube.com/watch?v=uFjdSqDPLSQ) Keynote at ISTA Conference 2016
 
