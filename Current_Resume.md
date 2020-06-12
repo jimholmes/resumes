@@ -33,84 +33,54 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
 
 **Executive Consultant**
 
--   Engages with clients in Fortune 500, 100, and 10 tiers to improve
-    their software quality
-
--   Part of team responsible for transforming 100+ member delivery team
-    from waterfall to agile
--   Assisted Fortune 10 client in modernizing testing and quality practices through hands-on delivery and workshops
-
--   Provides guidance and implementation assistance on all aspects of
-    software quality
-    
+-   Leads Fortune 500, 100, and 10 engagements, driving improved software value via hands-on delivery practices, training programs and workshops, and strategic planning with executive stakeholders. Helps clients modernize testing, quality, and overall delivery practices.
+-   Specializes in helping move organizations from stove-piped, centralized work centers to whole-teams working on feature versus component disciplines
+-   Responsible for transforming Fortune 10 organization 100+ member delivery team from waterfall to agile
 -   Creates and provides training and coaching to move non-coding testers into software automation
+-   Lead consultant integrating contract and delivery risk analysis processes between Accenture and Pillar during Pillar's acquisition transition. Responsible for advising opportunity pursuit teams on over $30M of business proposals.
 
--   Specializes in moving testers from stove-piped, centralized work into embedded members of delivery teams
-
--   Lead consultant integrating contract and delivery risk analysis processes between Accenture and Pillar. Responsible for advising opportunity pursuit teams on over $30M of business proposals.
-
-## Guidepost Systems: December 2014 - Present
+## [Guidepost Systems](http://GuidepostSystems.com): December 2014 - Present
 
 **Owner, Principle Consultant**
 
--   Works with clients to assess and transform organizational culture
-    and delivery practices
-
--   Delivers workshops on software quality, business value streams, and
-    communication
-
--   Provides assessments detailing actionable items for organizational
-    transformations
-    
--   Recognized influencer and mentor in Leadership development, particularly for IT teams
+-   Leads clients in assessing and transforming organizational and delivery practices
+-   Delivers workshops on software quality, business value streams, communication
+-   Provides assessments detailing actionable items for organizational transformations
+-   Recognized global influencer and mentor in Leadership development, particularly for IT teams
 
 ## Falafel Software: March 2014 - December 2014
 
 **VP, ALM and Testing**
 
 -   Responsible for growing ALM and Testing division.
-
 -   Created new offerings for training and coaching concepts.
-
 -   Executed on over \$130K of new business in Q2/Q3.
-
 -   Built strategic relationships with product vendors.
-
 -   Delivered online and in-person training.
-
 -   Assisted product vendor partners with pre- and post-sales support.
 
 ## Telerik: July 2011 - March 2014
 
-**Evangelist, Director of Engineering, Evangelist: Test Studio**
+**Evangelist, Director of Engineering : Test Studio**
 
 -   Responsible for increasing awareness of products to global audience.
-
 -   Created webinars, white papers, blog posts, and videos to increase
     market recognition.
-
 -   Spoke regularly at industry conferences on a broad range of software
     quality topics.
-
 -   As Director, lead global team of 30 engineers creating multiple
     testing products.
-
 -   Managed prioritization and expectations around release feature sets
     and release dates.
-
 -   Interfaced with marketing, business development, and sales to
     prioritize and publicize features.
-
 -   Broke location-specific component teams into divisional feature
     teams, boosting communication between geographic locations and
     increasing division’s flexibility.
-
 -   Changed post-development testing to collaborative in-process
     testing, decreasing code freeze time.
-
 -   Delivered online training to hundreds of attendees, and numerous
-    different organizations through multi-day onsite
-    coaching engagements.
+    different organizations through multi-day onsite coaching engagements.
 
 ## CodeMash Conference: April 2005 - January 2014
 
@@ -118,12 +88,9 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
 
 -   Oversaw growth of conference from 250 attendees in 2006 to 2,000+
     in 2014.
-
 -   Direct management of all budgetary issues—nearly \$750,000 in 2014.
-
 -   Directly responsible for all venue coordination, IT planning,
     and catering.
-
 -   Directly responsible for sponsorship revenue through 2013. Achieved
     \$150K in sales for 2013 event.
 
@@ -133,23 +100,17 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
 
 -   Envisioned and built Telligent’s entire QA department from zero
     members to seven in 18 months.
-
 -   Managed Telligent staff and offshore personnel through all aspects
     of quality lifecycle.
-
 -   Directly responsible for quality-related aspects of business
     relationship with key global customers.
-
 -   Drove automated test cases from zero to over 15,000 in 18 months.
-
 -   Implemented and managed pre-release test passes of products each
     iteration by entire development team. Reduced show-stopping bugs
     from four per release to zero for eight consecutive releases.
-
 -   Implemented a point-based estimation/velocity system for software
     development, eliminating two to four hours of wasted estimation time
     per developer per two week iteration.
-
 -   Doubled developer velocity, in part, by implementing a pull-based
     single-task workflow.
 
@@ -160,18 +121,14 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
 -   Led a team of technologists to successfully deliver software and
     systems solutions to clients. Managed relationships with partners
     and clients. Managed business plan for IW studio.
-
 -   Implemented iteration retrospectives throughout QSI’s Solutions
     division, resulting in improved team communication on all
     Solutions projects.
-
 -   Implemented Kanban processes at several project sites, cutting
     wasted development time.
-
 -   Technical lead on Windows Forms client-server application hosting
     technical manual content in HTML coupled with schematics viewers in
     BMP and DWF graphics formats.
-
 -   Awarded company’s Outstanding Contributor award for leading team
     delivering cutting-edge training materials to Microsoft’s Developer
     Platform Evangelism division.
@@ -182,7 +139,6 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
 
 -   Responsible for pre-sales client support, design and execution of
     client solutions.
-
 -   Assisted with design and implementation of several proof of concept
     workflows on the Microsoft Office SharePoint Server platform.
 
