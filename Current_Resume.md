@@ -15,19 +15,11 @@ header-includes:
 
 # SUMMARY
 
-Well-organized, motivated engineer passionate about continual
-improvement for skills, processes, and teams. Internationally recognized influencer in
-test automation communities. Exceptional writing and speaking skills.
+Accomplished Executive Technology Consultant leading organizational change; internationally recognized influencer in test automation communities; passionate about continual improvement, processes, and teams; well-organized with strong public speaking and writing skills.
 
-# TECHNOLOGY SKILLS:
 
-**Development:** C\#, Java, C++, SGML/XML/HTML, CSS, Ruby
 
-**Tools:** Visual Studio, Team Foundation Server, MSTest, NUnit, MBUnit,
-JustMock, Rhino Mocks, Subversion, Git, PowerShell, \*nix shell, Cucumber,
-Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
-
-# PROFESSIONAL EXPERIENCE:
+# MOST RECENT PROFESSIONAL EXPERIENCE:
 
 ## Pillar Technology (Now part of Accenture): March 2015 - Present
 
@@ -48,6 +40,24 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
 -   Provides assessments detailing actionable items for organizational transformations
 -   Recognized global influencer and mentor in Leadership development, particularly for IT teams
 
+# TECHNOLOGY SKILLS:
+
+**Development Platforms:** C\#, Java, C++, SGML/XML/HTML, CSS, Ruby
+
+**Tools:** Visual Studio (Windows, Mac, and VS Code), Eclipse, Team Foundation Server, MSTest, NUnit, MBUnit, JustMock, Rhino Mocks, Subversion, Git, PowerShell, \*nix shell, Cucumber, Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete, Jira, Rally, AzureDevOps
+
+# COMMUNITY / NON-PROFIT ENGAGEMENT
+
+## CodeMash Conference: April 2005 - January 2014
+**President, Board of Directors**
+
+-   Oversaw growth of conference from 250 attendees in 2006 to 2,000+ in 2014.
+-   Direct management of all budgetary issues—nearly $750,000 in 2014.
+-   Directly responsible for all venue coordination, IT planning,and catering.
+-   Directly responsible for sponsorship revenue through 2013. Achieved $150K in sales for 2013 event.
+
+# PRIOR PROFESSIONAL EXPERIENCE
+
 ## Falafel Software: March 2014 - December 2014
 
 **VP, ALM and Testing**
@@ -58,6 +68,7 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
 -   Built strategic relationships with product vendors.
 -   Delivered online and in-person training.
 -   Assisted product vendor partners with pre- and post-sales support.
+
 
 ## Telerik: July 2011 - March 2014
 
@@ -81,18 +92,6 @@ Selenium/WebDriver, Watir/FireWatir, Telerik Test Studio, TestComplete
     testing, decreasing code freeze time.
 -   Delivered online training to hundreds of attendees, and numerous
     different organizations through multi-day onsite coaching engagements.
-
-## CodeMash Conference: April 2005 - January 2014
-
-**President, Board of Directors**
-
--   Oversaw growth of conference from 250 attendees in 2006 to 2,000+
-    in 2014.
--   Direct management of all budgetary issues—nearly \$750,000 in 2014.
--   Directly responsible for all venue coordination, IT planning,
-    and catering.
--   Directly responsible for sponsorship revenue through 2013. Achieved
-    \$150K in sales for 2013 event.
 
 ## Telligent Systems: Nov 2008 - July 2011
 
