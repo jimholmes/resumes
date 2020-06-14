@@ -7,9 +7,13 @@ header-includes:
 ---
 
 
-  James (Jim) Holmes   
-  (937)416-8903   
-  Jim@GuidepostSystems.com
+James (Jim) Holmes   
+(937)416-8903   
+Jim@GuidepostSystems.com  
+GitHub: [JimHolmes](https://github.com/jimholmes)  
+LinkedIn: [https://www.linkedin.com/in/jim-holmes/](https://www.linkedin.com/in/jim-holmes/)  
+SpeakerDeck: [JimHolmes](https://speakerdeck.com/jimholmes)
+  
 
   ----------------------------------- --------------------------
 
@@ -48,7 +52,7 @@ Accomplished Executive Technology Consultant leading organizational change; inte
 
 # COMMUNITY / NON-PROFIT ENGAGEMENT
 
-## CodeMash Conference: April 2005 - January 2014
+## [CodeMash Conference](http://codemash.org): April 2005 - January 2014
 **President, Board of Directors**
 
 -   Oversaw growth of conference from 250 attendees in 2006 to 2,000+ in 2014.
