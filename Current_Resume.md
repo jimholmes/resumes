@@ -25,7 +25,15 @@ Accomplished Executive Technology Consultant leading organizational change; inte
 
 # MOST RECENT PROFESSIONAL EXPERIENCE:
 
-## Pillar Technology (Now part of Accenture): March 2015 - Present
+## Centric Consulting (Modern Software Delivery Practice): September 2020 - Present
+
+**Modernization Strategist / Coach**
+
+-	Leads organziations to improve their software delivery practices. Helps clients improve their realization of driving business value by working with them through executive consulting, coaching, and hands-on software delivery practices.
+- Creates long-term improvement plans for clients by close collaboration, discovery, assessment, and facilitation. Executes those plans with continual feedback to ensure organziational goals are achieved.
+- Drives business increases through close involvement in Centric's pre-sales process and client relationship building. Works closely with business unit leadership to create engagement models that give clients Centric's "Unmatched Client Experience."
+
+## Pillar Technology (Now part of Accenture): March 2015 - July 2020
 
 **Executive Consultant**
 
