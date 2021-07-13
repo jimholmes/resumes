@@ -2,7 +2,7 @@
 
 Hi!
 
-I'm Jim Holmes and I'm looking for a rewarding job with a software organization looking to improve the value it delivers to its customers&mdash;regardless whether those "customers" are internal or external. I'm particularly interested in working with software delivery teams, or in a role in product evangelism.
+I'm Jim Holmes and I'm looking for a rewarding job with a software organization looking to improve the value it delivers to its customers, regardless whether those "customers" are internal or external. I'm particularly interested in working with software delivery teams, or in a role in product evangelism.
 
 I have several decades' experience working in various corners of Information Technology. I've filled roles from small computer repairman at a branch office of a global oil engineering company to Director of Engineering of a team building cutting-edge test automation tools. I've been a product evangelist traveling around the world spreading the word about a cutting-edge test automation tool. I've also served as an Executive Consultant embedded in software delivery organizations at a Fortune Ten company. 
 
