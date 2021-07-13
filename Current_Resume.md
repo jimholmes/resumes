@@ -37,11 +37,11 @@ Accomplished Executive Technology Consultant leading organizational change; inte
 
 **Executive Consultant**
 
--   Leads Fortune 500, 100, and 10 engagements, driving improved software value via hands-on delivery practices, training programs and workshops, and strategic planning with executive stakeholders. Helps clients modernize testing, quality, and overall delivery practices.
--   Specializes in helping move organizations from stove-piped, centralized work centers to whole-teams working on feature versus component disciplines
+-   Lead Fortune 500, 100, and 10 engagements, driving improved software value via hands-on delivery practices, training programs and workshops, and strategic planning with executive stakeholders. Helps clients modernize testing, quality, and overall delivery practices.
+-   Specialized in helping move organizations from stove-piped, centralized work centers to whole-teams working on feature versus component disciplines
 -   Responsible for transforming Fortune 10 organization 100+ member delivery team from waterfall to agile
--   Creates and provides training and coaching to move non-coding testers into software automation
--   Lead consultant integrating contract and delivery risk analysis processes between Accenture and Pillar during Pillar's acquisition transition. Responsible for advising opportunity pursuit teams on over $30M of business proposals.
+-   Created and provided training and coaching to move non-coding testers into software automation
+-   Main consultant integrating contract and delivery risk analysis processes between Accenture and Pillar during Pillar's acquisition transition. Responsible for advising opportunity pursuit teams on over $30M of business proposals.
 
 ## [Guidepost Systems](http://GuidepostSystems.com): December 2014 - Present
 
@@ -253,7 +253,7 @@ Various slide decks from presentations hosted online at my
 
 ["You Got This!"](https://www.youtube.com/watch?v=5NMfLNtk65s)  Keynote at DevSpace Technical Conference 2018. **Note:** This is an intense talk and openly speaks to mental health and extraordinarily traumatic events.
 
-# COURSES
+# AUTHORED COURSES
 
 [Coding for Non-Coders](https://www.ministryoftesting.com/dojo/series/coding-for-non-coders-jim-holmes) 6.5 hour course targeting non-coding testers, program managers, and other software delivery team members.
 
