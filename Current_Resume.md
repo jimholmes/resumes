@@ -19,25 +19,49 @@ SpeakerDeck: [JimHolmes](https://speakerdeck.com/jimholmes)
 
 # SUMMARY
 
-Accomplished Executive Technology Consultant leading organizational change; internationally recognized influencer in test automation communities; passionate about continual improvement, processes, and teams; well-organized with strong public speaking and writing skills.
+Accomplished Executive Technology professional leading organizational change; internationally recognized influencer in test automation communities; passionate about continual improvement, processes, and teams; well-organized with top-notch public speaking and writing skills.
 
 
 
 # MOST RECENT PROFESSIONAL EXPERIENCE:
 
-## Centric Consulting (Modern Software Delivery Practice): September 2020 - Present
+## Construct Connect: November 2021 - Present
+
+**Director, Quality Assurance and Performance Engineering**
+
+Responsible for modernizing software delivery practices at ConstructConnect to improve quality. This work ranges from improving how test cases are written to direct, frequent interfacing with executive business leadership to ensure their goals are clear and met.
+
+- Driving cultural and procedural change through company transformation using Scaled Agile Framework for enterprise (SAFe), tenets of Extreme Ownership, and adoption of modern testing practices.
+- Manages 15 direct report software testers. Oversees 30 additional external testing consultants.
+- In first six months was directly responsible for reducing post-code freeze regression testing from mulitple weeks to three days by focusing testers on risk-based analysis as well as eliminating duplicate and outdated manual test cases.
+- Implemented pairwise testing approaches via Hexawise to dramatically reduce test cases while improving overall quality coverage.
+- Eliminated separate workflows for functional test automation with tests done one or two iterations after actual system work was accomplished. Functional test automation is now part of Definition of Done for all work items, and is accomplished in the same iteration as system work.
+- Identified business-critical workflows and drove improvements in production-environment monitoring of those flows via Site24x7.
+- Drafted and drove adoption of Non-Functional Requirements addressing specific business impacts to support operations and Site Reliability Engineers.
+- Oversaw stability improvements in functional automation suites, increasing pass rates from 70% to 90%, with a goal of 95% or better.
+- Driving adoption of static code analysis tooling as part of CI/CD pipelines with automatic rejection of commits failing critical rule thresholds for code quality and security.
+- Implemented twice-weekly mentoring sessions with entire onshore team to train on basic software coding capabilities using C# and XUnit.
+- Restructured QA department to provide better career growth for testers via new management positions and clear skills matrices.
+
+## Centric Consulting (Modern Software Delivery Practice): September 2020 - November 2021
 
 **Modernization Strategist / Coach**
 
--	Leads organziations to improve their software delivery practices. Helps clients improve their realization of driving business value by working with them through executive consulting, coaching, and hands-on software delivery practices.
-- Creates long-term improvement plans for clients by close collaboration, discovery, assessment, and facilitation. Executes those plans with continual feedback to ensure organziational goals are achieved.
-- Drives business increases through close involvement in Centric's pre-sales process and client relationship building. Works closely with business unit leadership to create engagement models that give clients Centric's "Unmatched Client Experience."
+Led client organziations to improve their software delivery practices. Helped clients improve their realization of driving business value by working with them through executive consulting, coaching, and hands-on software delivery practices.
+
+- Collaborated with Columbus, Ohio client to create a long-term software engineering improvement plan. Build specific recommendations and plans for client to adopt practices such as Continuous Integration/Continuous Delivery and Test Driven Development.
+- Led a performance engineering assessment engagement for a Chicago-based client who needed a quick assessment of whether their current system would support current and future sales goals. Oversaw and managed effort to provide explicit, targeted remediation recommendations regarding coding practices and architectural design.
+- Worked with the eCommerce division of a global Fortune 500 equipment manufacturer to improve their overall software quality practices. Identified specific improvements to production-monitoring infrastructure, drafted and drove adoption of results-oriented Non-Functional Requirements, created guidance for software engineering practice changes.
+- Created a test strategy and test plan for a data modernization effort at a US nation-wide financial services company.
+- Mentored testers at Centric's MSD practice to help them establish and execute career growth plans.
+
 
 ## Pillar Technology (Now part of Accenture): March 2015 - July 2020
 
 **Executive Consultant**
 
--   Lead Fortune 500, 100, and 10 engagements, driving improved software value via hands-on delivery practices, training programs and workshops, and strategic planning with executive stakeholders. Helps clients modernize testing, quality, and overall delivery practices.
+Led Fortune 500, 100, and 10 engagements, driving improved software value via hands-on delivery practices, training programs and workshops, and strategic planning with executive stakeholders. Helped clients modernize testing, quality, and overall delivery practices.
+
 -   Specialized in helping move organizations from stove-piped, centralized work centers to whole-teams working on feature versus component disciplines
 -   Responsible for transforming Fortune 10 organization 100+ member delivery team from waterfall to agile
 -   Created and provided training and coaching to move non-coding testers into software automation
@@ -47,7 +71,8 @@ Accomplished Executive Technology Consultant leading organizational change; inte
 
 **Owner, Principle Consultant**
 
--   Leads clients in assessing and transforming organizational and delivery practices
+Leads clients in assessing and transforming organizational and delivery practices
+
 -   Delivers workshops on software quality, business value streams, communication
 -   Provides assessments detailing actionable items for organizational transformations
 -   Recognized global influencer and mentor in Leadership development, particularly for IT teams
@@ -91,7 +116,7 @@ Accomplished Executive Technology Consultant leading organizational change; inte
     market recognition.
 -   Spoke regularly at industry conferences on a broad range of software
     quality topics.
--   As Director, lead global team of 30 engineers creating multiple
+-   As Director, led global team of 30 engineers creating multiple
     testing products.
 -   Managed prioritization and expectations around release feature sets
     and release dates.
