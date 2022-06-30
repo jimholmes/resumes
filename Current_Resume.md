@@ -31,14 +31,13 @@ Accomplished Executive Technology professional leading organizational change; in
 
 Responsible for modernizing software delivery practices at ConstructConnect to improve quality. This work ranges from improving how test cases are written to direct, frequent interfacing with executive business leadership to ensure their goals are clear and met.
 
-- Driving cultural and procedural change through company transformation using Scaled Agile Framework for enterprise (SAFe), tenets of Extreme Ownership, and adoption of modern testing practices.
+- Part of a team driving cultural and procedural change through company transformation using Scaled Agile Framework for enterprise (SAFe), tenets of Extreme Ownership, and adoption of modern testing practices.
 - Manages 15 direct report software testers. Oversees 30 additional external testing consultants.
 - In first six months was directly responsible for reducing post-code freeze regression testing from mulitple weeks to three days by focusing testers on risk-based analysis as well as eliminating duplicate and outdated manual test cases.
 - Oversaw implementation of pairwise testing approaches via Hexawise to dramatically reduce test cases while improving overall quality coverage.
-- Eliminated separate workflows for functional test automation with tests done one or two iterations after actual system work was accomplished. Functional test automation is now part of Definition of Done for all work items, and is accomplished in the same iteration as system work.
-- Identified business-critical workflows and drove improvements in production-environment monitoring of those flows via Site24x7.
+- Led initiatives to identify business-critical workflows and drove improvements in production-environment monitoring of those flows via Site24x7.
 - Drafted and drove adoption of Non-Functional Requirements addressing specific business impacts to support operations and Site Reliability Engineers.
-- Oversaw stability improvements in functional automation suites, increasing pass rates from 70% to 90%, with a goal of 95% or better.
+- Oversaw stability improvements in functional automation suites, increasing pass rates, with a goal of 95% or better.
 - Driving adoption of static code analysis tooling as part of CI/CD pipelines with automatic rejection of commits failing critical rule thresholds for code quality and security.
 - Implemented twice-weekly mentoring sessions with entire onshore team to train on basic software coding capabilities using C# and XUnit.
 - Restructured QA department to provide better career growth for testers via new management positions and clear skills matrices.
