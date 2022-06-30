@@ -1,10 +1,3 @@
----
-header-includes:
-  - \hypersetup{colorlinks=true,
-            linkcolor=blue,
-            allbordercolors={0 0 0},
-            pdfborderstyle={/S/U/W 1}}
----
 
 
 James (Jim) Holmes   
