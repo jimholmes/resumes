@@ -25,12 +25,14 @@ Accomplished Executive Technology professional leading organizational change; in
 Responsible for modernizing software delivery practices at ConstructConnect to improve quality. This work ranges from improving how test cases are written to direct, frequent interfacing with executive business leadership to ensure their goals are clear and met.
 
 - Part of a team driving cultural and procedural change through company transformation using Scaled Agile Framework for enterprise (SAFe), tenets of Extreme Ownership, and adoption of modern testing practices.
-- Manages 15 direct report software testers. Oversees 30 additional external testing consultants.
+- Manages 19 full-time staff software testers. Oversees 30 additional external testing consultants.
 - In first six months was directly responsible for reducing post-code freeze regression testing from mulitple weeks to three days by focusing testers on risk-based analysis as well as eliminating duplicate and outdated manual test cases.
+- Drove coverage of critical production systems from a handful of monitors to 100% coverage across over 200 monitors. Oversaw creation of dashboards and notification systems to provide self-service for in-house trainers, sales, and support staff. The monitors and dashboards dramatically reduced workloads on the already-overburdened Ops staff.
 - Oversaw implementation of pairwise testing approaches via Hexawise to dramatically reduce test cases while improving overall quality coverage.
-- Led initiatives to identify business-critical workflows and drove improvements in production-environment monitoring of those flows via Site24x7.
 - Drafted and drove adoption of Non-Functional Requirements addressing specific business impacts to support operations and Site Reliability Engineers.
+- Drove implementation of C4 model architectural diagrams across all product teams to help identify critical user flows across components and systems.
 - Oversaw stability improvements in functional automation suites, increasing pass rates, with a goal of 95% or better.
+- Led adoption of modern testing practices in effective collaboration and coverage, reducing test case bloat by 50% among most teams while improving effectiveness of testing.
 - Driving adoption of static code analysis tooling as part of CI/CD pipelines with automatic rejection of commits failing critical rule thresholds for code quality and security.
 - Implemented twice-weekly mentoring sessions with entire onshore team to train on basic software coding capabilities using C# and XUnit.
 - Restructured QA department to provide better career growth for testers via new management positions and clear skills matrices.
