@@ -22,26 +22,28 @@ Accomplished Executive Technology professional leading organizational change; in
 
 **Director, Quality Assurance and Performance Engineering**
 
-Responsible for modernizing software delivery practices at ConstructConnect to improve quality. This work ranges from improving how test cases are written to direct, frequent interfacing with executive business leadership to ensure their goals are clear and met.
+Responsible for modernizing software delivery practices at ConstructConnect to improve quality. Works with multiple groups including software engineering, operations support, product ownership, and others. Constantly collaborates with executives across the entire organization. 
 
 - Part of a team driving cultural and procedural change through company transformation using Scaled Agile Framework for enterprise (SAFe), tenets of Extreme Ownership, and adoption of modern testing practices.
-- Manages 19 full-time staff software testers. Oversees 30 additional external testing consultants.
-- In first six months was directly responsible for reducing post-code freeze regression testing from mulitple weeks to three days by focusing testers on risk-based analysis as well as eliminating duplicate and outdated manual test cases.
+- Manages 19 full-time staff software testers and 30 additional external testing consultants.
+- In first six months was directly responsible for reducing post-code freeze regression testing from multiple weeks to three days by focusing testers on risk-based analysis as well as eliminating duplicate and outdated manual test cases.
 - Drove coverage of critical production systems from a handful of monitors to 100% coverage across over 200 monitors. Oversaw creation of dashboards and notification systems to provide self-service for in-house trainers, sales, and support staff. The monitors and dashboards dramatically reduced workloads on the already-overburdened Ops staff.
+- Works directly with software engineers to raise software craftsmanship and quality capabilities through mentoring, workshops, and building communities of learning.
+- Deeply involved as a mentor with ConstructConnect's internal mentoring program.
+- Collaborated with Infosec team to bring security scanning into release process, blocking releases with high-level vulnerabilities.
+- Created a career path ladder for testers with well-defined criteria tied to explicit learning plans. This plan was adopted by other organizational groups within ConstructConnect.
+- Mentored and raised up two senior testers into managerial positions.
 - Oversaw implementation of pairwise testing approaches via Hexawise to dramatically reduce test cases while improving overall quality coverage.
 - Drafted and drove adoption of Non-Functional Requirements addressing specific business impacts to support operations and Site Reliability Engineers.
-- Drove implementation of C4 model architectural diagrams across all product teams to help identify critical user flows across components and systems.
 - Oversaw stability improvements in functional automation suites, increasing pass rates, with a goal of 95% or better.
 - Led adoption of modern testing practices in effective collaboration and coverage, reducing test case bloat by 50% among most teams while improving effectiveness of testing.
-- Driving adoption of static code analysis tooling as part of CI/CD pipelines with automatic rejection of commits failing critical rule thresholds for code quality and security.
 - Implemented twice-weekly mentoring sessions with entire onshore team to train on basic software coding capabilities using C# and XUnit.
-- Restructured QA department to provide better career growth for testers via new management positions and clear skills matrices.
 
 ## Centric Consulting (Modern Software Delivery Practice): September 2020 - November 2021
 
 **Modernization Strategist / Coach**
 
-Led client organziations to improve their software delivery practices. Helped clients improve their realization of driving business value by working with them through executive consulting, coaching, and hands-on software delivery practices.
+Led client organizations to improve their software delivery practices. Helped clients improve their realization of driving business value by working with them through executive consulting, coaching, and hands-on software delivery practices.
 
 - Collaborated with Columbus, Ohio client to create a long-term software engineering improvement plan. Build specific recommendations and plans for client to adopt practices such as Continuous Integration/Continuous Delivery and Test Driven Development.
 - Led a performance engineering assessment engagement for a Chicago-based client who needed a quick assessment of whether their current system would support current and future sales goals. Oversaw and managed effort to provide explicit, targeted remediation recommendations regarding coding practices and architectural design.
