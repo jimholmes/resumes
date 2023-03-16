@@ -45,7 +45,7 @@ Responsible for modernizing software delivery practices at ConstructConnect to i
 
 Led client organizations to improve their software delivery practices. Helped clients improve their realization of driving business value by working with them through executive consulting, coaching, and hands-on software delivery practices.
 
-- Collaborated with Columbus, Ohio client to create a long-term software engineering improvement plan. Build specific recommendations and plans for client to adopt practices such as Continuous Integration/Continuous Delivery and Test Driven Development.
+- Collaborated with Columbus, Ohio client to create a long-term software engineering improvement plan. Built specific recommendations and plans for client to adopt practices such as Continuous Integration/Continuous Delivery and Test Driven Development.
 - Led a performance engineering assessment engagement for a Chicago-based client who needed a quick assessment of whether their current system would support current and future sales goals. Oversaw and managed effort to provide explicit, targeted remediation recommendations regarding coding practices and architectural design.
 - Worked with the eCommerce division of a global Fortune 500 equipment manufacturer to improve their overall software quality practices. Identified specific improvements to production-monitoring infrastructure, drafted and drove adoption of results-oriented Non-Functional Requirements, created guidance for software engineering practice changes.
 - Created a test strategy and test plan for a data modernization effort at a US nation-wide financial services company.
@@ -88,6 +88,13 @@ Leads clients in assessing and transforming organizational and delivery practice
 -   Direct management of all budgetary issues—nearly $750,000 in 2014.
 -   Directly responsible for all venue coordination, IT planning,and catering.
 -   Directly responsible for sponsorship revenue through 2013. Achieved $150K in sales for 2013 event.
+
+## [Uniting for Ukraine Rogue Valley](http://unitingforukrainerv.org): May 2022 - Present
+**Member, Steering Committee**
+
+- Plans and executes fundraisers in support of relocating Ukrainian refugees to southern Oregon.
+- Assists in drafting operational procedures supporting refugees.
+- Provides IT support for the organization.
 
 # PRIOR PROFESSIONAL EXPERIENCE
 
