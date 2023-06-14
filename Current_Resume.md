@@ -33,6 +33,7 @@ Responsible for modernizing software delivery practices at ConstructConnect to i
 - Collaborated with Infosec team to bring security scanning into release process, blocking releases with high-level vulnerabilities.
 - Created a career path ladder for testers with well-defined criteria tied to explicit learning plans. This plan was adopted by other organizational groups within ConstructConnect.
 - Mentored and raised up two senior testers into managerial positions.
+- Built extensive training plan for entry-level testers. Hired and led training for five new entry-level testers, bringing them to highly effective testers within three months.
 - Oversaw implementation of pairwise testing approaches via Hexawise to dramatically reduce test cases while improving overall quality coverage.
 - Drafted and drove adoption of Non-Functional Requirements addressing specific business impacts to support operations and Site Reliability Engineers.
 - Oversaw stability improvements in functional automation suites, increasing pass rates, with a goal of 95% or better.
