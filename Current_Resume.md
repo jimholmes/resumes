@@ -18,7 +18,18 @@ Accomplished Executive Technology professional leading organizational change; in
 
 # MOST RECENT PROFESSIONAL EXPERIENCE:
 
-## Construct Connect: November 2021 - Present
+## [Guidepost Systems](http://GuidepostSystems.com): December 2014 - Present
+
+**Owner, Principle Consultant**
+
+Focuses on mentoring and coaching individuals and organizations to improve their leadership and software delivery capabilities.
+
+-   Collaborates with individuals and organizations to provide actionable roadmaps
+-   Delivers workshops on software quality, business value streams, communication
+-   Provides assessments detailing actionable items for organizational transformations
+-   Recognized global influencer and mentor in Leadership development, particularly for IT teams
+
+## Construct Connect: November 2021 - June, 2023
 
 **Director, Quality Assurance and Performance Engineering**
 
@@ -64,15 +75,7 @@ Led Fortune 500, 100, and 10 engagements, driving improved software value via ha
 -   Created and provided training and coaching to move non-coding testers into software automation
 -   Main consultant integrating contract and delivery risk analysis processes between Accenture and Pillar during Pillar's acquisition transition. Responsible for advising opportunity pursuit teams on over $30M of business proposals.
 
-## [Guidepost Systems](http://GuidepostSystems.com): December 2014 - Present
 
-**Owner, Principle Consultant**
-
-Leads clients in assessing and transforming organizational and delivery practices
-
--   Delivers workshops on software quality, business value streams, communication
--   Provides assessments detailing actionable items for organizational transformations
--   Recognized global influencer and mentor in Leadership development, particularly for IT teams
 
 # TECHNOLOGY SKILLS:
 
